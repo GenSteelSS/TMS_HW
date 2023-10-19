@@ -1,4 +1,6 @@
-package Lesson_7;
+package Lesson_7.Task_1;
+
+import Lesson_7.Task_1.Figure;
 
 public class Rectangle extends Figure {
 

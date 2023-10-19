@@ -1,4 +1,4 @@
-package Lesson_7;
+package Lesson_7.Task_1;
 
 public class Circle extends Figure {
     double radius;
